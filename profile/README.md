@@ -18,21 +18,21 @@
 
 Ajudamos empresas B2B a superarem os limites de sistemas genéricos. Software
 pronto impõe processos engessados; nós criamos ecossistemas digitais
-alinhados à exata realidade operacional de cada negócio — com arquitetura
+alinhados à exata realidade operacional de cada negócio - com arquitetura
 escalonável, comunicação direta com quem desenvolve (sem intermediários) e
 entrega previsível, etapa por etapa.
 
 > **Engenharia de software não é apenas sobre escrever código, mas sobre
 > criar soluções sustentáveis que impulsionam o crescimento e a eficiência
-> dos negócios.** — Manifesto Elkys
+> dos negócios.** - Manifesto Elkys
 
 ## Nossa história
 
 ```mermaid
 timeline
-    2021 : Origem acadêmica — aproximar pessoas de oportunidades por meio da tecnologia
-    2022 : O "bot de vagas" para colegas de turma vira produto — nasce o Sonnar
-    2023 : A marca Elkys — inspirada em Elysium, o ambiente ideal para a inovação
+    2021 : Origem acadêmica - aproximar pessoas de oportunidades por meio da tecnologia
+    2022 : O "bot de vagas" para colegas de turma vira produto - nasce o Sonnar
+    2023 : A marca Elkys - inspirada em Elysium, o ambiente ideal para a inovação
     Hoje : Engenharia de software, automação e produtos digitais para empresas B2B
 ```
 
@@ -49,10 +49,10 @@ timeline
 
 | | |
 |---|---|
-| **Sonnar** | Busca inteligente de vagas 24/7 — monitora oportunidades, otimiza currículos e analisa compatibilidade técnica. |
-| **Dashy** | Gestão financeira para espaços de beleza e bem-estar — agendamento, equipe e avisos automáticos aos clientes. |
+| **Sonnar** | Busca inteligente de vagas 24/7 - monitora oportunidades, otimiza currículos e analisa compatibilidade técnica. |
+| **Dashy** | Gestão financeira para espaços de beleza e bem-estar - agendamento, equipe e avisos automáticos aos clientes. |
 
-## Como trabalhamos — Hexa Design System
+## Como trabalhamos - Hexa Design System
 
 O **HDS** estrutura cada projeto em **6 etapas** com escopo fechado,
 entregáveis documentados e validação obrigatória entre etapas:
@@ -70,7 +70,7 @@ flowchart LR
 ```
 
 O resultado: previsibilidade de prazo, controle de escopo e rastreabilidade
-de ponta a ponta — do primeiro diagnóstico à sustentação em produção.
+de ponta a ponta - do primeiro diagnóstico à sustentação em produção.
 
 ## Nossos números
 
@@ -84,13 +84,13 @@ de ponta a ponta — do primeiro diagnóstico à sustentação em produção.
 
 ## Nossos valores
 
-**Transformação com propósito** — cada tecnologia deve provocar melhoria
-tangível e mensurável no negócio. · **Simplicidade e praticidade** —
-tecnologia deve descomplicar. · **Inovação aplicada** — sem respostas
-padrão para desafios específicos. · **Proximidade e parceria** — imergimos
-no contexto do cliente. · **Compromisso com resultados** — nos
+**Transformação com propósito** - cada tecnologia deve provocar melhoria
+tangível e mensurável no negócio. · **Simplicidade e praticidade** -
+tecnologia deve descomplicar. · **Inovação aplicada** - sem respostas
+padrão para desafios específicos. · **Proximidade e parceria** - imergimos
+no contexto do cliente. · **Compromisso com resultados** - nos
 responsabilizamos pelo impacto do que entregamos. · **Ética e
-transparência** — relações pautadas em clareza e evolução contínua.
+transparência** - relações pautadas em clareza e evolução contínua.
 
 ## Stack
 
@@ -117,6 +117,6 @@ segurança em cada PR (SAST, segredos, CVEs, Trivy) centralizada no
 
 **Seu processo é único. Seu software também deveria ser.**
 
-📫 [contato@elkys.com.br](mailto:contato@elkys.com.br) · [elkys.com.br](https://elkys.com.br) · Belo Horizonte, MG — Brasil
+📫 [contato@elkys.com.br](mailto:contato@elkys.com.br) · [elkys.com.br](https://elkys.com.br) · Belo Horizonte, MG - Brasil
 
 </div>
