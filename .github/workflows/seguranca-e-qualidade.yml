@@ -1,0 +1,23 @@
+name: Segurança e qualidade
+
+# Gerado pelo bootstrap/aplicar-em-todos.sh a partir de ElkysOfficial/ci-templates.
+# Editar à mão é perder a alteração na próxima passada: mude o padrão lá.
+# A lógica dos gates mora nos reutilizáveis; aqui só ficam os apontamentos.
+on:
+  pull_request:
+  push:
+    branches: ["main"]
+  schedule:
+    - cron: "0 9 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: seguranca-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  seguranca-da-raiz:
+    uses: ElkysOfficial/ci-templates/.github/workflows/_reusable-seguranca-base.yml@main
