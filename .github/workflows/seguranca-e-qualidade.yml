@@ -19,10 +19,5 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  validar-python:
-    uses: ElkysOfficial/ci-templates/.github/workflows/_reusable-ci-python.yml@main
-    with:
-      working-directory: "."
-      run-lint: false
-      com-requirements: false
-      run-test: false
+  seguranca-da-raiz:
+    uses: ElkysOfficial/ci-templates/.github/workflows/_reusable-seguranca-base.yml@main
